@@ -1,3 +1,10 @@
+# Adding config file
+config.py
+
+#Additing other practice
+API_practice.py
+try-except.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
